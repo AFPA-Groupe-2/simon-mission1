@@ -1,4 +1,4 @@
-/* Programme en pseudo code
+/* Programme en pseudo code TESTONNNNNNNNNS
 Variable utilisé : 
 tTableau = [] ; tableau pour la suite de nombre entier à rentrer, 
 intSomme = 0 ;pour la somme des nombres, 
